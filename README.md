@@ -1,5 +1,5 @@
 # SpringDataJPAcomJAVA
-Diretório criado para realizar o desafio Spring Data JPA - Academia Digital orientado pela professora Camila Peres
+Repositório criado para realizar o desafio Spring Data JPA - Academia Digital orientado pela professora Camila Peres
 
 
 <h1>Conhecendo o Projeto Spring Data JPA na Prática </h1>
